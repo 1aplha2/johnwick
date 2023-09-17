@@ -1,0 +1,15 @@
+my name is john wick.
+
+
+i have committed crimes with winston
+i have killed the boogey man
+my whole life story is divided into four chapters
+
+
+git config --global user.name="Ahsanshan"
+git config --global user.email="ahsanbukhariahsanshan@gmail.com"
+
+
+git add *
+git commit -m "I have created a text file"
+git push
