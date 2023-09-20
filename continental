@@ -1,0 +1,10 @@
+this is a text in my text fil.
+it is my third repository
+
+git config --global user.name="ahsanshah"
+git config --global user.email="ahsanshan@gmail.com"
+
+git add *
+git commit -m "i have created a text file"
+git push
+
